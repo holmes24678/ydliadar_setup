@@ -64,12 +64,16 @@ This will build and source the workspace (add source file to your .bashrc to avo
 ros2 run ros2 run ydlidar_ros2_driver ydlidar_ros2_driver_node --ros-args --params-file src/ydlidar_ros2_driver/params/G2.yaml
 ```
 you will get the follwing output
+![Screenshot from 2024-11-27 00-38-10](https://github.com/user-attachments/assets/e8d52ce3-8471-4942-b994-00c00c017556)
+
 
 #### Launching ydlidar_lauch file
 ```bash
 ros2 launch ydlidar_ros2_driver ydlidar_launch.launch.py 
 ```
 you will see the output in RVIZ. 
+![Screenshot from 2024-11-27 01-01-04](https://github.com/user-attachments/assets/ab9add48-6603-4fb7-b794-a6ce740eb115)
+
 Later you can use SLAM toolbox to perform various mapping algorithms.
 
 Thank you for visit. if you face any problems feel free to reach me out at hsherlock366@gmail.com
