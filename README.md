@@ -1,1 +1,1 @@
-# ydliadar_setup
+# YDLIDAR_CONFIG
