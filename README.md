@@ -51,10 +51,10 @@ Since there are some build errors in official files https://github.com/YDLIDAR/y
 ```bash
 mkdir -p ydlidar_ws/src
 cd src
-git clone 
+git clone https://github.com/holmes24678/ydlidar_setup.git
 
 cd ydlidar_ws
-colcon build --symlink-install\
+colcon build --symlink-install
 
 source ./install/setup.bash
 ```
