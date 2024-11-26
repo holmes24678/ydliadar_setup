@@ -42,6 +42,7 @@ Test the Lidar (connect the Lidar to PC)
 ./tri_test
 ```
 you will the following output. if you get same output you have successfully installed the YDLIDAR SDK
+![Screenshot from 2024-11-27 00-38-10](https://github.com/user-attachments/assets/37f281f4-024e-46a9-b01f-ed684797bf9e)
 
 ### 3. Installing ydlidar_ros2_driver
 Since there are some build errors in official files https://github.com/YDLIDAR/ydlidar_ros2_driver.git. I made some changes
