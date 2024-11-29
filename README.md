@@ -15,7 +15,7 @@ Make sure you have installed ROS on your Linux machine. if you are not installed
 Before you installing, make sure that you have installed YDLIDAR_SDK. Clone the github repository
 
 ```bash 
-git clone https://github.com/YDLIDAR/sdk.git
+git clone https://github.com/YDLIDAR/YDLidar-SDK.git
 ```
 Installing Depencencies
 
